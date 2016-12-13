@@ -23,3 +23,10 @@ Android__Learning_Resource
 ●  3. [okhttp](https://github.com/square/okhttp)
 
 ●  4. [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
+
+##Android技术网站
+●  1. [Google Developers](https://developers.google.cn/)
+
+●  1. [掘金](https://gold.xitu.io/timeline/android)
+
+●  1. [菜鸟窝](http://www.cniao5.com/)
