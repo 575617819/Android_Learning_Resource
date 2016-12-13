@@ -27,6 +27,6 @@ Android__Learning_Resource
 ##Android技术网站
 ●  1. [Google Developers](https://developers.google.cn/)
 
-●  1. [掘金](https://gold.xitu.io/timeline/android)
+●  2. [掘金](https://gold.xitu.io/timeline/android)
 
-●  1. [菜鸟窝](http://www.cniao5.com/)
+●  3. [菜鸟窝](http://www.cniao5.com/)
