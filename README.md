@@ -30,6 +30,3 @@ Android__Learning_Resource
 ●  2. [掘金](https://gold.xitu.io/timeline/android)
 
 ●  3. [菜鸟窝](http://www.cniao5.com/)
-
-##Android优秀公众号
-●  1. [AndromedaDeveloper](http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzI2NjU0NTY3OA==&from=1#wechat_webview_type=1&wechat_redirect)
